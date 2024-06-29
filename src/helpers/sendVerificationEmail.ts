@@ -4,7 +4,7 @@ import VerificationEmail from "../../emails/VerificationEmail";
 import { ApiResponse } from "@/types/ApiResponse";
 
 export async function sendVerificationEmail(
-    email:string, //hello
+    email:string, //xaltyPasta Commit
     
     username:string,
     verifyCode:string
